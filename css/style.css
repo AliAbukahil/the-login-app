@@ -31,6 +31,10 @@ div {
   border: 2px red dashed;
 }
 
+.data-bottom {
+  grid-column: 1/4;
+}
+
 /* main {
   display: grid;
   height: 50vh;
